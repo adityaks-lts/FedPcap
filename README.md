@@ -5,7 +5,7 @@
 Clone the FedPcap repository using the command in your terminal
 
 ```bash
-$ git clone https://github.com/skr1p7/FedPcap.git
+$ git clone https://github.com/DotSlashTX/FedPcap.git
 ```
 
 You need to have a certain packages installed in your system in order to use this tool, use the following commands to install them:
