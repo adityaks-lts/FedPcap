@@ -30,5 +30,6 @@ sudo apt-get install python
 python fedpcap.py
 ```
 
-**Contact developer here**
-Twitter(https://twitter.com/0xskr1p7)
+**Contact developers here**
+TX (https://twitter.com/DotSlashTX)
+skr1p7 (https://twitter.com/0xskr1p7)
